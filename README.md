@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Durgabhavanigunnam
-- 👀 I’m interested in python
-- 🌱 I’m currently learning machine learning
+- 👋 Hi, I’m @DurgaBhavaniGunnam
+- Self Learner
 
 <!---
 Durgabhavanigunnam/Durgabhavanigunnam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
